@@ -10,5 +10,5 @@ terraform to create vpc with bastion - aws
 1. terraform init /* this will intialise the folder for terraform and download respective modules
 2. terraform plan  /* will give you the list of resources created
 3. terraform apply /* will create those resources
-4. terraform destroy /* will cleanup all resources
+4. terraform destroy /* will cleanup all resources  
 
